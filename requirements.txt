@@ -1,0 +1,17 @@
+# SAiDL Summer Assignment 2026 — Python Dependencies
+# Install: pip install -r requirements.txt
+
+# Core ML (Part A)
+torch>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+datasets>=2.14.0
+transformers>=4.35.0
+tokenizers>=0.14.0
+
+# Reinforcement Learning (Part B)
+gymnasium>=0.29.0
+mujoco>=3.0.0
+
+# Utilities
+tqdm>=4.66.0
